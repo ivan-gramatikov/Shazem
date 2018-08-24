@@ -11,4 +11,4 @@ For NON-ROOT users, you will have to use ADB to backup the entire app
 
 
 What you may want to do is to copy this and put it in the folder where you cloned/downloaded my python script and run it. 
-It will put the songs in a list. You can use it to automate further... For copyright concerns, I have decided to only hint a possible usage but not implement it fully, it is up to you to figure out how to go on from there.. with a list of songs..
+It will put the songs in a list. You can use it to automate further... Due to possible copyright issues, I have decided to only hint a possible usage but not implement it fully, it is up to you to figure out how to go on from there.. with a list of songs..
