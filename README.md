@@ -5,7 +5,8 @@ For ROOT users, this is going to be really painless.
 
 Just use a root file explorer, go to `Data/Data/` and look for one or more folders with `shazam` in their name. Then, what you may want to do is look for `library.db`. This is where shazam usually stores its databases. These storages hold the list of your songs...
 
-For non-root users, you will have to use ADB to backup the entire app 
+For NON-ROOT users, you will have to use ADB to backup the entire app 
+
 `TODO: add a tutorial on how to backup the entire app so as to get THE DATABASE out of the backup...`
 
 
