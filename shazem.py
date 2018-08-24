@@ -14,6 +14,6 @@ for row in cursor:
 # Take the songlist and look at the lines below for a hint ;) You know what to do...
 
 # for element in songlist:
-#    youtube - dl "ytsearch1: ......"
+#    youtube-dl "ytsearch1: ......"
 
 conn.close()
